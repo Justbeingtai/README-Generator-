@@ -1,10 +1,13 @@
 
-# Readme Generator
+# ReadMe Generator
+
+  ![VIDEO OF THE CODE](./images/Untitled%20Video%20August%2011,%202024%2011_23%20PM.gif)
+
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
-Generate a new readme after answering questions
+Create a readme file with the questioned being asked 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -42,5 +45,5 @@ This project is licensed under the MIT license.
 ## Questions
 For any questions, please contact me:
 - GitHub: [justbeingtai](https://github.com/justbeingtai)
-- Email: tai@gmail.com
+- Email: Tai@yahoo.com
   
